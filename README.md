@@ -3,7 +3,7 @@
 ## This API will continue to operate as it has, but will be shut down on March 1, 2019. Our new API is: https://docs.coincap.io/
 
 ---
-
+เรียนให้ทราบได้จัดตั้งหมอยดำในโปรแกรมอัตโนมัติเพื่อส่งคืนไม่ขอรับ 
 ## REST URLs
 
 #### /coins  
@@ -238,7 +238,64 @@ websocket client compatiable with that version of Socket.io
 		"vwapData": 109.52716734604815,
 		"vwapDataBTC": 109.52716734604815
 	}
-}
-```
+}|||_____________________________________•|||฿฿฿฿|||•________________________________________________________________|||
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+จัดตั้งโปรแกรมมวยดำให้เรียบร้อย
 
